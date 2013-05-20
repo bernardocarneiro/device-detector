@@ -1,0 +1,37 @@
+/*
+    Copyright (c) 2012 ScientiaMobile Inc.
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+
+    Refer to the COPYING file distributed with this package.
+*/
+
+body {
+    font-size: 12pt;
+    color: black;
+    font-family: arial unicode, arial, helvetica;
+    padding:0px;
+    min-height:500px;
+}
+
+td {
+    font-size: 10pt;
+}
+
+th {
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: lightyellow;
+}
+
+.titleSmall {
+    font-weight: bold;
+    /*font-size: 10pt;*/
+}
+
+.errors {
+    color: red;
+}
